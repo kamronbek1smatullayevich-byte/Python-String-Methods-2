@@ -1,4 +1,4 @@
-text = input('text: ')
+text = input("text: ")
 
 result= text.lower().count('py')
 
